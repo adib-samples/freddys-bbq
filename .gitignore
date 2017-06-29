@@ -7,4 +7,5 @@ target
 .gradle
 .springBeans
 .factorypath
-
+.idea/**
+*.iml
